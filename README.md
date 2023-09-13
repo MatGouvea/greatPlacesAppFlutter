@@ -1,6 +1,6 @@
 # great_places
 
-A new Flutter project.
+App de registro de locais feito em Flutter.
 
 ## Getting Started
 
